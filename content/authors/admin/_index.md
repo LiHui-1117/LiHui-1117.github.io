@@ -106,5 +106,5 @@ social:
 highlight_name: true
 ---
 
-Lihui is a graduate student majoring in artificial intelligence at North China University of Science and Technology. Her research interests include digital image processing, machine learning, deep learning and audio subtitles.
+Li Hui is a graduate student majoring in artificial intelligence at North China University of Science and Technology. Her research interests include digital image processing, machine learning, deep learning and audio subtitles.
 {style="text-align: justify;"}
