@@ -35,7 +35,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  courses:
     - course: Master of Computer Technology
       institution: North China University of Technology
       year: 2023
