@@ -7,7 +7,7 @@ name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Hui
-last_name:Li
+last_name: Li
 
 # Status emoji
 status:
@@ -34,6 +34,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
   courses:
     - course: Master of Computer Technology
       institution: North China University of Technology
