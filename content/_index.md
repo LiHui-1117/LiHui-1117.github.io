@@ -238,7 +238,7 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: 1364158870@qq.com
-      phone: 18636901592
+      phone: 186 3690 1592
       # appointment_url: 'https://calendly.com'
       address:
         street: 河北省 唐山市 曹妃甸 新城渤海大道21号
